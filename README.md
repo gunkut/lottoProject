@@ -1,0 +1,2 @@
+# lottoProject
+simple lotto project
